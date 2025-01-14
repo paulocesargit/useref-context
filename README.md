@@ -16,7 +16,7 @@ Este repositório contém três exercícios básicos desenvolvidos em React para
 - **Descrição**: Um cronômetro que conta os segundos e pode ser iniciado, pausado e resetado.
 - **Conceito Utilizado**: `useRef` para armazenar a referência de `setInterval` e `clearInterval`.
 
-<img alt="Imagem do site" src="./src/assets/exercicio_02.mp4" width="100%">
+<img alt="Imagem do site" src="./src/assets/exercicio_02.png" width="100%">
 
 ### 3. **Contexto de Tema**
 
