@@ -1,6 +1,6 @@
 # React Exercises: Foco, Cronômetro e Tema
 
-Este repositório contém três exercícios básicos desenvolvidos em React para praticar conceitos como `useRef`, `useContext`, e manipulação de estados e estilos dinâmicos.
+Este repositório contém três exercícios básicos desenvolvidos em React para praticar conceitos como `useRef`, `useContext`, e manipulação de estados e estilos.
 
 ## 📋 Exercícios
 
